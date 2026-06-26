@@ -39,13 +39,13 @@ body {
 
 #cursor-glow {
     position: fixed;
-    width: 380px;
-    height: 380px;
+    width: 280px;
+    height: 280px;
     border-radius: 50%;
     pointer-events: none;
     z-index: 0;
     transform: translate(-50%, -50%);
-    background: radial-gradient(circle, rgba(183, 75, 75, 0.07) 0%, transparent 70%);
+    background: radial-gradient(circle, rgba(183, 75, 75, 0.28) 0%, transparent 70%);
     transition: opacity 0.3s ease;
 }
 
