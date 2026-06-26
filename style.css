@@ -39,8 +39,8 @@ body {
 
 #cursor-glow {
     position: fixed;
-    width: 280px;
-    height: 280px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     pointer-events: none;
     z-index: 0;
